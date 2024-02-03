@@ -4,7 +4,7 @@ Hello, I am GHEZIL Othmane a Software Engineer & web developer. I am involved in
 🌱 I’m interested Java Scripts related concepts (Deep Dive into JavaScript) and its framework mainly React Js.
 👯 I’m looking to collaborate on Web/AI posts.
 💬 Ask me about anything, I'll be happy to help and share :D.
-My Profiles
-Linkedin
+My Profiles:
+Linkedin :in/ghezil-othmane/
 Stack Overflow
-Coder Ranks
+
