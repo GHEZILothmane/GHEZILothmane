@@ -9,3 +9,5 @@ Linkedin :https://www.linkedin.com/in/ghezil-othmane/
 
 Stack Overflow
 
+Languages and Tools:
+
