@@ -5,6 +5,7 @@ Hello, I am GHEZIL Othmane a Software Engineer & web developer. I am involved in
 👯 I’m looking to collaborate on Web/AI posts.
 💬 Ask me about anything, I'll be happy to help and share :D.
 My Profiles:
-Linkedin :in/ghezil-othmane/
+Linkedin :https://www.linkedin.com/in/ghezil-othmane/
+
 Stack Overflow
 
