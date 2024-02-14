@@ -7,7 +7,11 @@ Hello, I am GHEZIL Othmane a Software Engineer & web developer. I am involved in
 My Profiles:
 Linkedin :https://www.linkedin.com/in/ghezil-othmane/
 
-Stack Overflow
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-Languages and Tools:
+  <a href="https://www.linkedin.com/in/ghezil-othmane/" target="blank"
+    >
+</a>
+</p>
 
