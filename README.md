@@ -5,7 +5,16 @@ Hello, I am GHEZIL Othmane a Software Engineer & web developer. I am involved in
 🌱 I’m interested Java Scripts related concepts (Deep Dive into JavaScript) and its framework mainly React Js.
 👯 I’m looking to collaborate on Web/AI posts.
 💬 Ask me about anything, I'll be happy to help and share :D.
-##### Languages I use
+
+<h3 align="left">Connect With Me:</h3>
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/OthmaneGhezil)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ghezil-othmane/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ghezi_lothmane/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
+
+##### Languages I use 
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -45,17 +54,4 @@ Hello, I am GHEZIL Othmane a Software Engineer & web developer. I am involved in
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-
-
-
-My Profiles:
-Linkedin :https://www.linkedin.com/in/ghezil-othmane/
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/ghezil-othmane/" target="blank"
-    >
-</a>
-</p>
 
